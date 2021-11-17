@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeyasuryaUR
-- 👀 I’m interested in being an Enterprenure
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in being an Content Creator
+- 🌱 I’m currently building a startup
 - 📫 How to reach me - jeyasurya0206@gmail.com | +91 6385133480
 
 <!---
