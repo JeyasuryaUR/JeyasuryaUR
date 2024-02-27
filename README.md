@@ -2,11 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeyasuryaur) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15129080) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jeyasuryaur) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jeyasuryaur) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jeyasuryaur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeyasuryaur) 
 <br>
-I am currently working on full stack development.<br>
-I am looking to collaborate on web or app development projects, competitive coding challenges, video editing and graphic designing.<br>
-I am looking for help with blockchain and AI.<br>
-I am currently learning Web 3 and Full Stack Development.<br>
-Ask be about Competitive Programming, Web Programming and Chess.
+- I am currently working on full stack development.
+- I am looking to collaborate on web or app development projects, competitive coding challenges, video editing and graphic designing.
+- I am looking for help with blockchain and AI.
+- I am currently learning Web 3 and Full Stack Development.
+- Ask be about Competitive Programming, Web Programming and Chess.
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeyasuryaUR&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
