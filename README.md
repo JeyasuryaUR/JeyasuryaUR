@@ -7,6 +7,7 @@
 - I am looking for help with blockchain and AI.
 - I am currently learning Web 3 and Full Stack Development.
 - Ask be about Competitive Programming, Web Programming and Chess.
+- Reach me at jeyasurya0206@gmail.com or +91 63851 33480
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeyasuryaUR&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
